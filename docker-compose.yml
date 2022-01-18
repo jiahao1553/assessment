@@ -1,0 +1,28 @@
+version: '3'
+services:
+        cafe_mongo:
+                image: mongo
+                ports:
+                        - 27019:27017
+                restart: always               
+                environment:
+                        MONGO_INITDB_ROOT_USERNAME: root
+                        MONGO_INITDB_ROOT_PASSWORD: rootpassword
+                
+        cafe_seeder:
+                image: cafe_seeder
+                depends_on:
+                        - cafe_mongo
+
+        cafe_express:
+                image: cafe_express
+                ports:
+                        - 8080:9000
+                restart: always
+                depends_on:
+                        - cafe_seeder
+
+        cafe_react:
+                image: cafe_react
+                ports:
+                        - 3000:3000

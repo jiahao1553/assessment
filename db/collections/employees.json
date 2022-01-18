@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Austin Cooper",
+        "days_worked": 16,
+        "cafe": "Yummy Tummy Espresso Bar",
+        "id": "UIHQJWAXG"
+    },
+    {
+        "name": "Zac White",
+        "days_worked": 19,
+        "cafe": "Cocoa Connection Coffee Bar",
+        "id": "UI75ZN7Z5"
+    },
+    {
+        "name": "Nicholas Foster",
+        "days_worked": 8,
+        "cafe": "Whispering Earth Diner",
+        "id": "UI8SGWM9C"
+    },
+    {
+        "name": "Harrison Harvey",
+        "days_worked": 15,
+        "cafe": "Needle & Thread Luncheonette",
+        "id": "UIW6DNHCW"
+    },
+    {
+        "name": "Jackson Mason",
+        "days_worked": 13,
+        "cafe": "Hot Shots Cafe",
+        "id": "UI3WGS2DD"
+    },
+    {
+        "name": "Chase Ronin",
+        "days_worked": 10,
+        "cafe": "Wakey Wakey Room",
+        "id": "UIROT0L2F"
+    },
+    {
+        "name": "Kai Fielding",
+        "days_worked": 10,
+        "cafe": "New Tower Espresso Bar",
+        "id": "UIPO20ONC"
+    },
+    {
+        "name": "Edward Hayes",
+        "days_worked": 15,
+        "cafe": "Mellow Teapot Espresso Bar",
+        "id": "UIZ9PADGT"
+    },
+    {
+        "name": "Adam Madden",
+        "days_worked": 19,
+        "cafe": "Misty Bites Coffee Bar",
+        "id": "UIPOF5PWT"
+    },
+    {
+        "name": "Vincent Harris",
+        "days_worked": 5,
+        "cafe": "Whispering Earth Diner",
+        "id": "UI937PWGM"
+    }
+]

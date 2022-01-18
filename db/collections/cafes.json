@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Yummy Tummy Espresso Bar",
+    "description": "From the outside it looks crude, unfriendly and dirty. Timber and huge, stone pillars make up most of the building's outer structure.",
+    "employees": 11,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=8B7BCDC2",
+    "location": "Stathmore",
+    "id": "6e236585-2463-46a7-a078-6d879c0dd85e"
+  },
+  {
+    "name": "Cocoa Connection Coffee Bar",
+    "description": "It's tough to see through the small, curtained windows, but the ominous atmosphere from within can be felt outside.",
+    "employees": 8,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=500B67FB",
+    "location": "Red Hawk",
+    "id": "204f8814-301c-4774-92b0-bb26d0005f78"
+  },
+  {
+    "name": "Needle & Thread Luncheonette",
+    "description": "It's as somber inside as it is on the outside. Wooden beams support the upper floor and the sconces attached to them. The walls are loaded with pictures, though the dust and cobwebs stops you from taking a closer look.",
+    "employees": 6,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=A89D0DE6",
+    "location": "Black Hollow",
+    "id": "05370404-48d2-405b-8caf-9efb50fc54e3"
+  },
+  {
+    "name": "Hot Shots Cafe",
+    "description": "As you enter the tavern through the thick, wooden door, you're welcomed by aromas of what's probably food, hopefully and a coldness.",
+    "employees": 15,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=225E6693",
+    "location": "Aysgarth",
+    "id": "aa18928d-4c2c-4320-8dba-1a22a4207494"
+  },
+  {
+    "name": "Wakey Wakey Room",
+    "description": "The bartender is lying in a chair, doing nothing and makes no effort to acknowledge your pressence.",
+    "employees": 19,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=9D9539E7",
+    "location": "Far Water",
+    "id": "dd5d5315-72ce-42ba-b40a-8f5f687a12e5"
+  },
+  {
+    "name": "New Tower Espresso Bar",
+    "description": "You did hear rumors about this tavern, supposedly it's infamous for something, but for the life of you you can't remember what for. Though juding by the dirt and unhygienic circumstances, it's probably food poisoning.",
+    "employees": 9,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=BDC01094",
+    "location": "Rotherham",
+    "id": "696b18c3-f5f4-40ca-b26f-3f7defd4c4f1"
+  },
+  {
+    "name": "Mellow Teapot Espresso Bar",
+    "description": "The tavern itself is almost completely abanonded. The few people inside appear to be quite ominous and suspicious in your eyes, but whoever they are, you begin to fear for your safety, it's probably best to find a different place.",
+    "employees": 18,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=7F5AE56A",
+    "location": "Little Ivywood",
+    "id": "4a4e2e52-0f58-4e76-9515-a859434efa00"
+  },
+  {
+    "name": "Misty Bites Coffee Bar",
+    "description": "From the outside it looks homey, well maintained and folksy. Large and small stones and hardwooden pillars make up most of the building's outer structure.",
+    "employees": 17,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=4F32C4CF",
+    "location": "Strongfair",
+    "id": "75255f85-73bb-4708-ab7d-329bbf4cd7a2"
+  },
+  {
+    "name": "Whispering Earth Diner",
+    "description": "It's difficult to see through the small, curtained windows, but the livelyness from within can be felt outside.",
+    "employees": 6,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=B0E33EF4",
+    "location": "Braedon",
+    "id": "8e379b6d-a58c-41e9-b2f7-57d01c7082f7"
+  },
+  {
+    "name": "Quiet Boulder Cafe",
+    "description": "As you enter the tavern through the old, hardwooden door, you're welcomed by clapping hands and a sense of home.",
+    "employees": 7,
+    "logo": "https://api.lorem.space/image/drink?w=150&h=150&hash=2D297A22",
+    "location": "Skegness",
+    "id": "147c5f6d-c509-4ab2-8a7a-798ff8795f45"
+  }
+]
